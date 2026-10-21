@@ -1,2 +1,2 @@
 # ccs_psu
-用于编写ccs项目
+用于编写ccs的psu项目，
